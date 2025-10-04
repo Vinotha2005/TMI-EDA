@@ -31,7 +31,7 @@ transactions / last_purchase_days → Activity/engagement
 
 ## 📊 Analysis Highlights
 
-Part A – Data Cleaning
+1.Part A – Data Cleaning
 
 Handled missing values, duplicates, and formatting issues.
 
